@@ -11,10 +11,15 @@ MANUAL DE CORES – BANCO ITAÚ
    A paleta foi dividida em categorias para facilitar a aplicação:
 
 Primárias: #267FE3, #1866BE, #539AE9
+
 Secundárias: #FF6200, #FF8033, #CC4D00
+
 Dark: #262323, #0B0A0A, #403B3B
+
 Success: #52D65F, #2FC63E, #7BE085
+
 Danger: #D11C00, #9E1500, #FF2705
+
 Light: #F2F5F7, #D3DDE4, #FFFFFF
 
   Cada cor foi organizada com três variações (normal, +1 e -1) para dar flexibilidade e coerência ao design.
@@ -24,11 +29,17 @@ Light: #F2F5F7, #D3DDE4, #FFFFFF
    Foi adotada a fonte Poppins, com uma hierarquia de tamanhos bem definida:
 
 Small: 14px
+
 Parágrafo: 16px
+
 H5: 18px
+
 H4: 24px
+
 H3: 28px
+
 H2: 34px
+
 H1: 40px
 
 📄 SOBRE O PROCESSO
