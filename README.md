@@ -3,9 +3,11 @@ MANUAL DE CORES – BANCO ITAÚ
   Este repositório contém o desenvolvimento do Manual de Cores do banco Itaú, realizado através da plataforma Figma. O objetivo do projeto é garantir a padronização visual da identidade da marca em diferentes meios e aplicações.
 
 🧩 FERRAMENTA UTILIZADA
-Figma – Utilizado para a construção visual e organização do manual.
+ 
+ Figma – Utilizado para a construção visual e organização do manual.
 
 🎨 PALETA DE CORES
+  
    A paleta foi dividida em categorias para facilitar a aplicação:
 
 Primárias: #267FE3, #1866BE, #539AE9
@@ -18,6 +20,7 @@ Light: #F2F5F7, #D3DDE4, #FFFFFF
   Cada cor foi organizada com três variações (normal, +1 e -1) para dar flexibilidade e coerência ao design.
 
 ✍️ TIPOGRAFIA
+ 
    Foi adotada a fonte Poppins, com uma hierarquia de tamanhos bem definida:
 
 Small: 14px
