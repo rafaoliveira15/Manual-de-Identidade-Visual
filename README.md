@@ -35,4 +35,4 @@ H1: 40px
 
    Todo o trabalho foi construído no Figma com foco em clareza, padronização e facilidade de uso para desenvolvedores, designers e demais envolvidos com a identidade visual da marca Itaú.
 
-<img width="867" height="653" alt="image" src="https://github.com/user-attachments/assets/da876082-b879-4b30-b769-921f7c6dabf7" />
+<img width="592" height="406" alt="image" src="https://github.com/user-attachments/assets/da876082-b879-4b30-b769-921f7c6dabf7" />
